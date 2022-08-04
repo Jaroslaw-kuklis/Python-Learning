@@ -57,5 +57,5 @@ for _ in range(password_lenght):
 
 random.shuffle(password)
 
-print("".join(password))
+print("Your password:","".join(password))
 print()
