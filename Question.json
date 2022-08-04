@@ -1,0 +1,26 @@
+[
+    {
+        "Question":"Which planet from the sun is earth",
+        "a":1,
+        "b":2,
+        "c":3,
+        "d":4,
+        "Correct question is":"c"
+    },
+    {
+        "Question":"Which year has Python been created?",
+        "a":1986,
+        "b":1991,
+        "c":1995,
+        "d":2000,
+        "Correct question is":"b"
+    },
+    {
+        "Question":"How much is equal the expression 2*2+2?",
+        "a":4,
+        "b":6,
+        "c":10,
+        "d":8,
+        "Correct question is":"b"
+    }
+]
